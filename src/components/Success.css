@@ -1,0 +1,43 @@
+.h1_text{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+.p_text{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+.p_text2{
+    padding-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+.button_ok{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 1px;
+    padding: 6px 15px 6px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    background-color: #679e6b;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
